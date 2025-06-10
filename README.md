@@ -1,6 +1,6 @@
 # UTMB-SIBDS---CCM
 ## University of Texas Medical Branch Summer Institute in Biostatistics and Data Science 
-
+---
 Trypanosoma cruzi (Tc) is the causative agent for chagasic cardiomyopathy (CCM), to which 120 million people are exposed yearly in Latin America. Vectorial transmission of Tc occurs in the Southern half of the US, and the more than 300,000 infected individuals living in the US can further increase transmission through blood or organ donation. 
 Approximately 1/3 of infected individuals will develop tissue fibrosis, ventricular dilation and arrhythmia, leading to heart failure. Chagas disease presents a neglected pathology as no effective therapy is available for the treatment of infected patients, who suffer formidable health challenges resembling those faced by HIV/AIDS patients. 
 Dr. Garg’s studies are focused on molecular tools for the diagnosis of at risk patients, and potential therapies for the management of more than 20 million infected individuals at risk of developing cardiomyopathy and heart failure. Dr. Garg has shown that Tc induced intracellular Ca+2 flux (required for parasite invasion) elicits mitochondrial loss of membrane potential, decreased adenosine triphosphate generation and increased mitochondrial reactive oxygen species and oxidative stress in cardiomyocytes and chagasic hearts. Yet, what signals mitochondrial dysfunction after control of acute infection and why this cannot be arrested to prevent continuous cardiac loss of energy and damage is unknown. 
